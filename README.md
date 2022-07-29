@@ -1,2 +1,1 @@
-We’ve made a Body Mass Index Calculator inspired by the beautiful!
-It is a multi screen app with simple functionality but full-on custom styling. 
+A flutter based application to calculate Body Mass Index in terms of various factors such as age, gender, height and weight.
